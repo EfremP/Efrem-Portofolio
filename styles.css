@@ -1,0 +1,83 @@
+body {
+    display: flex;
+    border: 5px solid blue;
+    margin:20px;
+    padding: 10px;
+    background-color: #1fdbdc;
+  }
+  img{
+   margin-left:100px;
+   padding:5px;
+   border-width:5 px;
+   border-color:blue;
+   border-style:solid;
+   border-radius:600px;
+  }
+  .introduction{padding:solid-black;
+  font-size:22px;
+  border:3px solid-black
+  color:blue;}
+  .Linkedin:hover{font-size:20px;
+  font-color:blue;}
+  
+  p{
+    display: flex;
+    flex: 1;
+    border: 4px dotted black;
+    font-size:18px;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 15px;
+    background-color: gray;
+  }
+  .box-1{
+    display: flex;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    flex: 1;
+  }
+  .box-2{
+    display: flex;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    flex: 1;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    background-color: black;
+    color: black;
+    flex: 1;
+  }
+   .box-2{
+      border: 3px solid #aaa;
+      background-color: #eee;
+      height: 300px;
+      width: 500px;
+      display: flex;
+      align-items: right;
+      justify-content: center;
+      float: left;
+      margin-right: 10px;
+      border-radius: 5px;
+      font-size: 20px;
+    }
+  .box-2{
+      border: 3px solid #aaa;
+      background-color: #eee;
+      height: 300px;
+      width: 500px;
+      display: flex;
+      align-items: left;
+      justify-content: center;
+      float: left;
+      margin-right: 10px;
+      border-radius: 5px;
+      font-size: 20px;
+    }
+  .hover-"img"
+  
+  #div{margin:0 auto}
+  

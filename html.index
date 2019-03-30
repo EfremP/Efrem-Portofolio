@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta charset="utf-8">
+<title>Prtofolio of Efrem</title>
+  </head>
+  <body>
+  <div>
+    <header>
+      <h1>Portofolio of Efrem</h1>
+       <img class="hover"
+            src="https://ca.slack-edge.com/TDE4XGUKG-UFLSELX4L-2e990b59446d-72"alt="Efrem" width="180" />
+    </header>
+    <section>
+      <h2 class"introduction">A short Introduction about me</h2>
+      <p1>My name is Efrem Gebreab and I came out from Eritrea. I am 30 years old. When I was in my land I studied geography. My hobbies are photography and video editing. I love to be always creatif and at this time I am more interested in making website in a creative way.</p1>
+     <div> 
+       <p2>My name is Efrem Gebreab and I came out from Eritrea. I am 30 years old. When I was in my land I studied geography. My hobbies are photography and video editing. I love to be always creatif and at this time I am more interested in making website in a creative way.</p2>
+      </div>
+      <div>
+        <p3>Lorem ipsum dolor sit amet, ut consul concludaturque sed, at his dico tempor feugiat. No est fabulas apeirian disputationi, cum mundi facete consulatu ex. Est feugiat neglegentur ea, erat oratio expetendis vis ne, vocibus urbanitas ius ei. Usu stet zril ea, meis quando delicata te pro. Quo an veri utroque ocurreret, sed ea labore principes. Eum omittam neglegentur id.
+
+Cum numquam sadipscing ut, quem omittam voluptaria ea nam. Harum suscipit scriptorem sit an. Vel ei eruditi corrumpit, at duis offendit intellegebat nam. Est accumsan noluisse ei, ei vel mazim iudico consul, est volutpat expetenda mediocritatem at. Mea et sanctus nominati partiendo. Vis id facer aliquip perfecto, pri in ridens adipiscing conclusionemque, in laoreet iracundia per.</p3>
+      </div>
+    
+          <h4>Those are my skills level as fronend developer:-</h4>
+      <!-- Fix this table -->
+      <table>
+       <tr>
+         <td><b>html</b></td>
+         <td><b>css</b></td>
+         <td><b>javascript<b/></td>
+       </tr>
+       <tr>
+         <th>beginner 2</th>
+         <th>beginner1</th>
+         <th>absolute beginner 0</th>
+       </tr>
+     </table>
+ 
+      <h3>My future websites that I want to make are</h3>
+    <ul>
+      <li>wetransfer</li>
+      <li>slack</li>
+      </ul>
+<p>Links to my social media</p>
+     <ol>
+       <li> This takes you to my <a href="https://www.linkedin.com/in/efrem-gebreab-637406116/" target="_blank">Linkedin</a></li>
+     <li>
+     
+      This is a link to my<a href="https://www.facebook.com/papas.efrem.7" target="_blank"> facebook</a></li>
+      </ol>
+        
+<p> For people who want to Know more about me I attached a videolink here below.</p>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/uOIHHMnI_Ig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <h4> Contact me here</h4>
+      <h5>ask me questions here and fill all required fields</h5>
+    </div>
+    <form action="ask me questions">
+      <button type="your question">your question</button>
+     <input type="text"requiredplaceholder</inpute>
+      <button type="your name">your name</button>
+      <input type="text"requiredplaceholder</inpute>
+      <button type="your email">your email</button>
+      <input type="text"requiredplaceholder</inpute>
+      <button type="submit">submit</button>
+     </form> 
+       </body>    
+</html>
